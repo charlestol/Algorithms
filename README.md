@@ -11,4 +11,5 @@ Algorithms I've implemented for CSE 100
 * MergeSort
 * MinHeap
 * RadixSort
+* RandomQuickSort
 
