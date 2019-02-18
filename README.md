@@ -1,5 +1,5 @@
 # Algorithms
-Algorithms I've implemented for CSE 100
+Algorithms I've implemented for CSE 100 @ UC Merced
 
 ## C++
 * BinarySearchTree
